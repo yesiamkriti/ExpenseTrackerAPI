@@ -1,1 +1,1 @@
-# ExpenseTrackerAPI
+# Expense Tracker Application
